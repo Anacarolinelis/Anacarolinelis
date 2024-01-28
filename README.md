@@ -1,5 +1,5 @@
-#  About Me:
-Bem-vindos(as)🔮<br><br>👩🏽‍💻 Desenvolvedora aprendiz Full-stack.<br><br>🔰Java | Kotlin | Java Script | HTML | CSS | Git | SOLID | TDD<br><br>📍Campinas-SP<br><br>✉ anacarolinesouzalisboa@gmail.com
+# Bem-vindos(as)🔮:
+👩🏽‍💻 Desenvolvedora aprendiz Full-stack.<br><br>🔰Java | Kotlin | Java Script | HTML | CSS | Git | SOLID | TDD<br><br>📍Campinas-SP<br><br>✉ anacarolinesouzalisboa@gmail.com
 
 
 ## 🌐 Socials:
