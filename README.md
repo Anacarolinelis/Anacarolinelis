@@ -1,5 +1,5 @@
 # Hello, I'm Ana 😉!:
-👩🏽‍💻 Desenvolvedora aprendiz Full-stack.<br><br>🔰Java | Kotlin | Java Script | HTML | CSS | Git | SOLID | TDD<br><br>📍Campinas-SP<br><br>✉ anacarolinesouzalisboa@gmail.com
+👩🏽‍💻 Developer.<br><br>🔰Java | Kotlin | Java Script | HTML | CSS | Git | SOLID | TDD<br><br>📍Campinas-SP<br><br>✉ anacarolinesouzalisboa@gmal.com
 
 
 ## 🌐 Socials:
