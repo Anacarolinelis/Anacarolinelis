@@ -1,5 +1,5 @@
 # Hello !!! I'm Ana :
- 👩🏽‍💻Developer <br> ✉ anacarolinesouzalisboa@gmal.com
+ 👩🏽‍💻Desenvolvedora <br> ✉ anacarolinesouzalisboa@gmal.com
 <br>
 <br>
 ## 🌐 Socials:
