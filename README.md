@@ -1,4 +1,4 @@
-# Hello !!! I'm Ana 🔮:
+# Hello !!! I'm Ana :
  👩🏽‍💻Developer <br> ✉ anacarolinesouzalisboa@gmal.com
 <br>
 <br>
